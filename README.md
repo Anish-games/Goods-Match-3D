@@ -4,7 +4,6 @@
 <img width="502" height="882" alt="image" src="https://github.com/user-attachments/assets/e5250500-678e-408e-8e98-09b3e9bc9779" />
 <img width="507" height="894" alt="image" src="https://github.com/user-attachments/assets/54218e28-dfd5-43d7-ab9d-ecf55b54bc60" />
 
-I am submitting my completed assignment as per the instructions provided. Below is a brief overview of the project:
 
 The project is a Unity-based game (Unity Version: **2023.3.3f1**) with the following features:
 
